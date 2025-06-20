@@ -1,0 +1,150 @@
+.profile-card {
+  background-image: linear-gradient(
+    to right top,
+    #000000,
+    #380022,
+    #600054,
+    #6f009d,
+    #1c00fc
+  );
+  max-width: 340px;
+  margin: 2rem auto;
+  border-radius: 14px;
+  padding: 2.5rem 2rem 1.5rem 2rem;
+  text-align: center;
+  text-decoration: overline dotted;
+  text-transform: uppercase;
+}
+body {
+  background-image: url(Back.jpg);
+  color: white;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-color: yellow;
+  background-blend-mode: multiply;
+}
+.me {
+  background-image: linear-gradient(
+    to right top,
+    #3cd509,
+    #00a678,
+    #006f8d,
+    #003962,
+    #09071b
+  );
+  max-width: 340px;
+  margin: 2rem auto;
+  border-radius: 14px;
+  padding: 2.5rem 2rem 1.5rem 2rem;
+  text-align: center;
+  line-height: 3;
+  font-size: 18px;
+}
+ {
+  background-image: linear-gradient(
+    to bottom,
+    #000000,
+    #3e0f1b,
+    #780724,
+    #b30021,
+    #ea0404
+  );
+  max-width: 340px;
+  margin: 2rem auto;
+  border-radius: 14px;
+  padding: 2.5rem 2rem 1.5rem 2rem;
+  text-align: center;
+}
+.Timeline {
+  background-image: linear-gradient(
+    to bottom,
+    #0057d5,
+    #9235ad,
+    #b80477,
+    #bc1343,
+    #aa3a14
+  );
+  max-width: 340px;
+  margin: 2rem auto;
+  border-radius: 14px;
+  padding: 2.5rem 2rem 1.5rem 2rem;
+  text-align: center;
+}
+.Favorite {
+  background-image: radial-gradient(
+    circle,
+    #ed06e9,
+    #fa00a1,
+    #ec0065,
+    #cf1937,
+    #aa3a14
+  );
+  max-width: 340px;
+  margin: 2rem auto;
+  border-radius: 14px;
+  padding: 2.5rem 2rem 1.5rem 2rem;
+  text-align: center;
+}
+.Tips {
+  background-image: linear-gradient(
+    to left bottom,
+    #10ce99,
+    #67b152,
+    #8a8f12,
+    #a16900,
+    #aa3a14
+  );
+  max-width: 340px;
+  margin: 2rem auto;
+  border-radius: 14px;
+  padding: 2.5rem 2rem 1.5rem 2rem;
+  text-align: center;
+}
+.SAIT {
+  background-image: linear-gradient(
+    to left bottom,
+    #e4f714,
+    #ffa200,
+    #ff0047,
+    #fd009b,
+    #490ae5
+  );
+  max-width: 340px;
+  margin: 2rem auto;
+  border-radius: 14px;
+  padding: 2.5rem 2rem 1.5rem 2rem;
+  text-align: center;
+  line-height: 3;
+  font-size: 18px;
+}
+.Contact {
+  background-image: linear-gradient(
+    to left bottom,
+    #8e1b0c,
+    #a9002c,
+    #b6005c,
+    #a6009d,
+    #490ae5
+  );
+  max-width: 340px;
+  margin: 2rem auto;
+  border-radius: 14px;
+  padding: 2.5rem 2rem 1.5rem 2rem;
+  text-align: center;
+}
+.Email {
+  background-color: blue;
+  max-width: 340px;
+  margin: 2rem auto;
+  border-radius: 14px;
+  padding: 2.5rem 2rem 1.5rem 2rem;
+  text-align: center;
+}
+a {
+  color: black;
+}
+ul {
+  list-style-type: lower-roman;
+}
